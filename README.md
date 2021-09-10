@@ -1,6 +1,14 @@
 # PushNotif
 
+[![PyPI version](https://badge.fury.io/py/pushnotif.svg)](https://badge.fury.io/py/pushnotif)
+
 Want to get notified on your phone when your code has executed? This is a simple tool to generate a Push Notification to your IFTTT app.
+
+Now available to download through [PyPi](https://pypi.org/project/pushnotif/).
+
+```
+pip install pushnotif
+```
 
 ## QuickStart
 
@@ -30,7 +38,7 @@ Notifier : Your Code has executed with message "Model Finished Training" at Sept
 9. Click on **Continue**. Write a Title for your Applet and click on **Finish**.
 10. Go to the **[Webhook Documentations](https://ifttt.com/maker_webhooks)** to get your key. You will use this key to intialize your code.
 <img src = "tutorial/key.png" style/>
-11. Download the IFTTT app for **[Android](https://play.google.com/store/apps/details?id=com.ifttt.ifttt&hl=en_US&gl=US)** | **[iPhone](https://apps.apple.com/us/app/ifttt/id660944635)**
+11. Download the IFTTT app for [**Android**](https://play.google.com/store/apps/details?id=com.ifttt.ifttt&hl=en_US&gl=US) | [**iPhone**](https://apps.apple.com/us/app/ifttt/id660944635)
 
 ## Execution
 ```
