@@ -46,7 +46,7 @@ Notifier : Your Code has executed with message "Model Finished Training" at Sept
 pip install pushnotif
 ```
 
-Run the following with your event URL that you got when setting up IFTTT in **step 10**.
+Run the following with your event name (*Step 5*) and key (*Step 10*) that you got when setting up IFTTT,
 ```
 from pushnotif import PushNotif
 
